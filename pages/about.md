@@ -1,12 +1,8 @@
 ---
 layout: page
-title: About
+title: Ласкаво просимо до нашого центру
 permalink: "/about/"
 image: assets/images/screenshot.png
----
-
-# Ласкаво просимо до нашого центру розтяжки ануса: Першорядна допомога від досвідчених фахівців
-
 ---
 
 ## Про нас
