@@ -1,15 +1,15 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Центр розтяжки ануса"
+email: kalininacezaria@gmail.com
 timezone: UTC
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Cesaria
 paginate: 30
 disqus: 'demowebsite'
-locale: en_us
-lang: en_us
+locale: uk_UA
+lang: uk_UA
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -20,32 +20,22 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: 
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
+  Cesaria:
+    name: Цезарія
+    display_name: Цезарія
     avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    email: kalininacezaria@gmail.com
+    description: "Керівник та засновник центру"
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/_a_aleksaandrovna_/
+  facebook: https://www.facebook.com/profile.php?id=61555426386209
+  
 
 # Plugins
 plugins: 
