@@ -1,32 +1,28 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Головна
   url: ""
 
-- title: About
+- title: Про центр
   url: "about/"
 
-- title: Contact
+- title: Контакти
   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Записатись на огляд  
+  url: https://t.me/photo_stace
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Головна
   url: ""
 
-- title: Privacy Policy
+- title: Політика конфіденційності 
   url: "privacy-policy/"
 
-- title: Contact
+- title: Контакти
   url: "contact/"
-
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
