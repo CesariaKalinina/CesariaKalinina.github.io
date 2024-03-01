@@ -1,13 +1,13 @@
 title: "Центр розтяжки ануса"
 email: kalininacezaria@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Cesaria
 paginate: 30
-disqus: 'demowebsite'
+disqus: ''
 locale: uk_UA
 lang: uk_UA
 feed_items: 10
